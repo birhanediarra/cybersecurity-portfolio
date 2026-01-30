@@ -15,6 +15,8 @@ A full deployment of a Wazuh SIEM environment using:
 
 This lab demonstrates the full pipeline from endpoint event → SIEM ingestion → alert interpretation.
 
+### Additional Labs (Coming Soon)
+
 ## Portfolio Goals:
 - Show practical, hands‑on security skills
 - Demonstrate my ability to investigate and document security events
