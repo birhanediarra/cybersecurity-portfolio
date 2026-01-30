@@ -27,6 +27,6 @@ These screenshot showcase the process for Windows endpoint successfully register
 
 ![Agent Added](Agent-added.png)
 ![Agent Key](agent-key.png)
-![Wazuh Agent](Screenshot-2026-01-28-175727.png)
+![Wazuh Agent](wazuh-agent.png)
 ![Wazuh Dashboard](wazuh-dashboard-overview.png)
 
