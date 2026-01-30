@@ -20,3 +20,9 @@ Windows Agent → Wazuh Manager → Wazuh Dashboard
 4. Installed the Wazuh Windows agent and inserted the agent key.
 5. Verified agent connectivity in the Wazuh dashboard.
 
+## Agent Registration
+
+### Windows Agent Connected
+This screenshot shows the Windows endpoint successfully registered and active in the Wazuh dashboard.
+
+![Agent Active](Screenshot 2026-01-28 175727.png)
