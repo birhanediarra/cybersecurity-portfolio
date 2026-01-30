@@ -56,7 +56,7 @@ This screenshot shows the expanded details of a failed login alert (Event ID 462
 ### Windows Event Viewer Correlation
 This screenshot shows the original Windows Security Log (Event ID 4625) that corresponds to the Wazuh alert. This demonstrates how endpoint logs map directly to SIEM alerts.
 
-![Event Viewer 4625](screenshots/event-viewer-confirm.png)
+![Event Viewer 4625](screenshots/event-viewer-confrim.png)
 
 ## What I Learned
 
