@@ -23,6 +23,10 @@ Windows Agent → Wazuh Manager → Wazuh Dashboard
 ## Agent Registration
 
 ### Windows Agent Connected
-This screenshot shows the Windows endpoint successfully registered and active in the Wazuh dashboard.
+These screenshot showcase the process for Windows endpoint successfully registering and being active in the Wazuh dashboard.
 
-![Agent Active](Screenshot-2026-01-28-175727.png)
+![Agent Added](Agent-added.png)
+![Agent Key](agent-key.png)
+![Wazuh Agent](Screenshot-2026-01-28-175727.png)
+![Wazuh Dashboard](wazuh-dashboard-overview.png)
+
